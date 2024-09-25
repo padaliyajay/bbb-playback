@@ -13,6 +13,16 @@ You will be able to play your recordings using the following URL
 https://<domain>/playback/presentation/2.3/<recordId>
 ```
 
+## Development
+```
+PUBLIC_URL=/playback/presentation/dev/ npm start
+```
+
+## Install tldraw
+```
+npm install tldraw-v1@./package-files/tldraw.tar
+```
+
 ## URL query strings
 
 - frequency:
