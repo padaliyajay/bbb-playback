@@ -26,7 +26,7 @@ npm install tldraw-v1@./package-files/tldraw.tar
 ## Deploy into scalelite
 first copy build files to scalelite(`~/bigbluebutton/playback/presentation/2.3/`) then run below command
 ```
-docker cp ~/bigbluebutton/playback/presentation/2.3/ scalelite-nginx:/var/bigbluebutton/playback/presentation/2.3
+docker cp ~/bigbluebutton/playback/presentation/2.3 scalelite-nginx:/var/bigbluebutton/playback/presentation/
 ```
 
 
